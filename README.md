@@ -1,4 +1,4 @@
-# fileGPT
+# EditorGPT
 Add GPT to your Text Editor
 
 
