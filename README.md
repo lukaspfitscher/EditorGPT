@@ -1,7 +1,7 @@
 # fileGPT
 Add GPT to your Text Editor
 
-<video src="demo.mp4"></video>
+<video src='demo.mp4' width=180/>
 
 For me, a text editor is more convenient than a web-based solution. Here is a Python script that adds GPT to your text editor (preferably VS Code).
 
