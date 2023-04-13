@@ -4,8 +4,10 @@ Add GPT to your Text Editor
 
 
 https://user-images.githubusercontent.com/75246068/231614556-9020c727-9eb0-4b24-afc5-b826d81f9547.mp4
+  
+  
 
-
+  
 
 For me, a text editor is more convenient than a web-based solution. Here is a Python script that adds GPT to your text editor (preferably VS Code).
 
