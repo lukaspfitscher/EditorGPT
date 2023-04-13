@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/75246068/231614556-9020c727-9eb0-4b24-
 
 For me, a text editor is more convenient than a web-based solution. Here is a Python script that adds GPT to your text editor (preferably VS Code).
 
-By writing "pl" in a text editor and saving the file, it will prompt GPT and add generated text. The program is written in Python. Just remember to change the API key and download the API (pip install OpenAI)
+By writing "pl" in a text editor and saving the file, it will activate GPT and add generated text. The program is written in Python. Just remember to change the API key and download the API (pip install OpenAI)
 
 ```
 python3 main.py yourtext.txt
