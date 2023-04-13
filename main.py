@@ -2,7 +2,7 @@ import time
 import openai
 import sys
 
-openai.api_key = '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'
+openai.api_key = ''
 conversation = []
 first_response = True
 response = ''
