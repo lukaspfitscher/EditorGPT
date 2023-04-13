@@ -14,7 +14,7 @@ For me, a text editor is more convenient than a web-based solution. Here is a Py
 By writing "pl" in a text editor and saving the file, it will prompt GPT and add generated text. The program is written in Python. Just remember to change the API key.
 
 ```
-python3 main.py
+python3 main.py yourtext.txt
 ```
 
 ```
