@@ -14,3 +14,10 @@ For me, a text editor is more convenient than a web-based solution. Here is a Py
 By writing "pl" in a text editor and saving the file, it will prompt GPT and add generated text. The program is written in Python. Just remember to change the API key.
 
 Execute the script by writing "python3 main.py text.txt" when you want to use the LLM. To generate a response, write "pl" at the end of the file and save it. Then it will generate a response. Enjoy!
+
+Here in action:
+
+
+
+https://user-images.githubusercontent.com/75246068/231616255-cfa55608-10d8-4e4a-8f02-2ecb32784a07.mp4
+
