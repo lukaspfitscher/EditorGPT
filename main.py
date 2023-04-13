@@ -2,7 +2,7 @@ import time
 import openai
 import sys
 
-openai.api_key = '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'
+openai.api_key = 'YOUR KEY!!!!!'
 first_response = True
 response = ''
 filename = sys.argv[1]
